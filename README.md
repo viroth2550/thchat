@@ -2,4 +2,4 @@
 
 ### Support or Contact
 
-Having trouble with Pages? [contact support](mailto:support@thchat.stream) and we’ll help you sort it out.
+Having trouble with THChat? [contact support](mailto:support@thchat.stream) and we’ll help you sort it out.
